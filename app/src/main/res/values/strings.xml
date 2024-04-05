@@ -1,3 +1,34 @@
 <resources>
     <string name="app_name">Recycle view</string>
+    <string-array name="info_data_array">
+        <item>Clerodendrum inerme, is valued in traditional medicine for treating various ailments including fever, skin diseases, and respiratory issues due to its anti-inflammatory and antimicrobial properties.</item>
+        <item>Elephantopus scaber, is esteemed in traditional medicine for its anti-inflammatory and antimicrobial properties, utilized to treat respiratory ailments, skin disorders, and digestive issues.</item>
+        <item>Alternanthera sessilis, is esteemed in traditional medicine for its antioxidant and anti-inflammatory properties, utilized to alleviate conditions such as diabetes, hypertension, and liver disorders.</item>
+        <item>Artocarpus heterophyllus, yields medicinal extracts used in traditional Ayurvedic practices, offering remedies for ailments like diabetes and digestive issues.</item>
+        <item>Centella asiatica, is revered in traditional medicine for its cognitive-enhancing and wound-healing properties, used to improve memory, reduce anxiety, and promote skin regeneration.</item>
+    </string-array>
+
+    <string-array name="b_name_array">
+        <item>Kura thampala</item>
+        <item>Hathawariya</item>
+        <item>Kowakka</item>
+        <item>Kos</item>
+        <item>Gotu kola</item>
+    </string-array>
+
+
+    <string name="plant1">plant1</string>
+    <string name="plant2">plant2</string>
+    <string name="plant3">plant3</string>
+    <string name="plant4">plant4</string>
+    <string name="plant5">plant5</string>
+
+
+
+
+
+
+
+
+
 </resources>

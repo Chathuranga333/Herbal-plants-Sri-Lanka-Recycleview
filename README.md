@@ -9,7 +9,9 @@ The Sri Lankan Herbal Plants Guide aims to educate users about the diverse range
 ## Key Features
 
 •	Herbal Plant List: Displays a list of Sri Lankan herbal plants using RecyclerView.
+
 •	Detailed Information: Allows users to tap on a list item to view detailed information about a specific herbal plant.
+
 •	Create New Entries: Provides functionality for users to create new entries for herbal plants within the app itself.
 
 ## Getting Started

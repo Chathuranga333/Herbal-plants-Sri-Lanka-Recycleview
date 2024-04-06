@@ -19,8 +19,11 @@ The Sri Lankan Herbal Plants Guide aims to educate users about the diverse range
 Follow these steps to get started with the Sri Lankan Herbal Plants Guide:
 
 •	Clone or download the repository to your local machine.
+
 •	Open the project in Android Studio.
+
 •	Review the code and understand the implementation of RecyclerView and Intents.
+
 •	Run the application on an emulator or a physical device.
 
 ## Support and Contributions
